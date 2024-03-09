@@ -5,7 +5,11 @@ O CP-500 é um clone do TRS-80 americano, o que significa que todo o software de
 
 Há uma comunidade significativa de entusiastas do TRS-80 nos EUA e ao redor do mundo, e algumas dessas pessoas criaram emuladores quem permitem rodar aplicativos e jogos do TRS-80 em computadores modernos. Além disso, centenas de disquetes contendo software para essas máquinas foram disponibilizados na Internet de forma virtual, podendo ser usados diretamente nos emuladores. Alguns desses emuladores, como o TRS32 de Matthew Reed, são tão impressionantes, que imitam até mesmo o ruído dos drives quando acessam os disquetes, fazendo você se sentir como se estivesse diante de uma máquina de verdade.
 
-Página BR: http://www.cp500.com.br/
+http://www.cp500.com.br/
+
+https://www.retrostic.com/
+
+https://datassette.org/
 
 Modelos
 Quatro modelos de CP-500 foram produzidos no Brasil ao longo dos anos. Já nos EUA, o número de modelos de TRS-80 criados é bem maior. Há os TRS-80 Model I, II, III, 4, as versões portáteis 100/102, 200, 600, os CoCos 1, 2, 3, o MC-10 e também oito versões diferentes de Pocket Computers, para não falar nos clones internacionais dentre os quais o CP-500 é apenas um. Nem todos esses modelos são compatíveis entre si, portanto a tabela abaixo mostra os quatro modelos de CP-500 já criados e sua compatibilidade com os modelos de TRS-80.
