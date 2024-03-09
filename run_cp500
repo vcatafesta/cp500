@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+# shellcheck shell=bash disable=SC1091,SC2039,SC2166
+
+# paru -Sdd sdltrs
+# paru -Sdd sdl2trs
+
+
+#sdltrs -bg 0xff0000 -model 3 -rom CP500M80_27128.bin -disk0 DOS500.DSK
+#sdltrs -bg 0x0000ff -model 3 -rom CP500M80_27128.bin -disk0 DOS500.DSK
+
+#cp500
+#sdltrs -fg 0x00ff00 -model 3 -rom CP500M80_27128.bin -disk0 DOS500.DSK
+
+#dosplus
+#sdltrs -fg 0x00ff00 -model 3 -rom CP500M80_27128.bin -disk0 DOSPLUS.dsk
+
+#multidos
+sdltrs -fg 0x00ff00 -model 3 -rom CP500M80_27128.bin -disk0 m3401s.dmk
