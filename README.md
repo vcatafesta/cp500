@@ -7,9 +7,15 @@ Há uma comunidade significativa de entusiastas do TRS-80 nos EUA e ao redor do 
 
 http://www.cp500.com.br/
 
+http://www.velasco.com.br/item/prologicacp500m80
+
+http://cpmarchives.classiccmp.org/trs80/mirrors/mdutra/www.mdutra.com/pt-br/node/2
+
 https://www.retrostic.com/
 
 https://datassette.org/
+
+https://www.planetemu.net/rom/mame-roms/cp500
 
 Modelos
 Quatro modelos de CP-500 foram produzidos no Brasil ao longo dos anos. Já nos EUA, o número de modelos de TRS-80 criados é bem maior. Há os TRS-80 Model I, II, III, 4, as versões portáteis 100/102, 200, 600, os CoCos 1, 2, 3, o MC-10 e também oito versões diferentes de Pocket Computers, para não falar nos clones internacionais dentre os quais o CP-500 é apenas um. Nem todos esses modelos são compatíveis entre si, portanto a tabela abaixo mostra os quatro modelos de CP-500 já criados e sua compatibilidade com os modelos de TRS-80.
