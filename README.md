@@ -6,7 +6,9 @@ O CP-500 é um clone do TRS-80 americano, o que significa que todo o software de
 Há uma comunidade significativa de entusiastas do TRS-80 nos EUA e ao redor do mundo, e algumas dessas pessoas criaram emuladores quem permitem rodar aplicativos e jogos do TRS-80 em computadores modernos. Além disso, centenas de disquetes contendo software para essas máquinas foram disponibilizados na Internet de forma virtual, podendo ser usados diretamente nos emuladores. Alguns desses emuladores, como o TRS32 de Matthew Reed, são tão impressionantes, que imitam até mesmo o ruído dos drives quando acessam os disquetes, fazendo você se sentir como se estivesse diante de uma máquina de verdade.
 
 http://www.cp500.com.br/
+
 https://www.retrostic.com/
+
 https://datassette.org/
 
 Modelos
