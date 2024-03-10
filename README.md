@@ -15,6 +15,8 @@ https://www.retrostic.com/
 
 https://datassette.org/
 
+https://www.emurom.net/
+
 https://www.planetemu.net/rom/mame-roms/cp500
 
 Modelos
